@@ -21,7 +21,7 @@ __Viewmont High School__, Bountiful, UT
 
 - 3.5 GPA
 
-###Internships
+### Internships
 
 `April 2021 - September 2021`
 __Wisdom Farm Technology Development Group__, Farmington UT
