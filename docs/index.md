@@ -21,7 +21,7 @@ __Viewmont High School__, Bountiful, UT
 
 - 3.5 GPA
 
-### Internships
+## Internships
 
 `April 2021 - September 2021`
 __Wisdom Farm Technology Development Group__, Farmington UT
@@ -62,6 +62,7 @@ __Jonny Kraczek__, Wisdom Farm Technology Development Group
 - Phone Number: 801 -828 -0283
 - E-mail: johnt@wisdomfarms.us
 - Relationship: Employer / Church Member
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
