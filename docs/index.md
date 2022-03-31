@@ -21,6 +21,7 @@ __Viewmont High School__, Bountiful, UT
 
 - 3.5 GPA
 
+`2019 - Present`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Working on a Computer Science Degree
