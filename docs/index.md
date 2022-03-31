@@ -21,6 +21,10 @@ __Viewmont High School__, Bountiful, UT
 
 - 3.5 GPA
 
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Working on a Computer Science Degree
+
 ## Internships
 
 `April 2021 - September 2021`
@@ -35,13 +39,13 @@ __Wisdom Farm Technology Development Group__, Farmington UT
 `2019-2020`
 __LDS Missionary__, Alanta Georgia
 
-`June 2021 - September 2021`
-__Davis School Distric__, Farmington, UT
+`December 2021 - September 2021`
+__Davis School District__, Farmington, UT
 
 - Coach Para for Viewmont High School Marching Band; Bountiful, UT
 - Coach Para for Farmington High School Winter Drum Line; Farmington, UT
 
-`June 2020 - December 2020`
+`June 2020 - October 2020`
 __Lowe's Home Improvemnet__ ,Bountiful, UT
 
  - Receiver / Stocker
