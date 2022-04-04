@@ -31,10 +31,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `April 2021 - September 2021`
 __Wisdom Farm Technology Development Group__, Farmington UT
 
-- Work an projects at the company.
-- Helped build parts for the project that I worked on.
-
-
 ## Service and Work History
 
 `2019-2020`
